@@ -1,16 +1,13 @@
-## Hi there 👋
+![João Moreira](./joaomoreira.png)
+<div align="center">
 
-<!--
-**joaosmoreira/joaosmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Fullstack developer & designer who loves building products and coffee.**
 
-Here are some ideas to get you started:
+[Portfolio](http://www.joaosmoreira.pt) | [LinkedIn](https://www.linkedin.com/in/joaosmoreira/) | [Behance](https://www.behance.net/joaopmoreira) | [Instagram](https://www.instagram.com/joaopsm/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="height: 1px; border: 0; background: #ccc;" />
+
+### Technologies and Languages
+Java | JavaScript | TypeScript | HTML | CSS | PHP
+
+</div>
