@@ -1,7 +1,7 @@
 ![João Moreira](./joaomoreira.png)
 <div align="center">
 
-**A Fullstack developer & designer who loves building products and coffee.**
+**A full-stack developer & designer who thrives on building creative solutions and a good cup of coffee.**
 
 [Portfolio](http://www.joaosmoreira.pt) | [LinkedIn](https://www.linkedin.com/in/joaosmoreira/) | [Behance](https://www.behance.net/joaopmoreira) | [Instagram](https://www.instagram.com/joaopsm/)
 
