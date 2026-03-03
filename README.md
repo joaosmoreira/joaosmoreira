@@ -3,11 +3,11 @@
 
 **A full-stack developer & designer who thrives on building creative solutions and a good cup of coffee.**
 
-[Portfolio](http://www.joaosmoreira.pt) | [LinkedIn](https://www.linkedin.com/in/joaosmoreira/) | [Behance](https://www.behance.net/joaopmoreira) | [Instagram](https://www.instagram.com/joaopsm/)
+[Portfolio](http://www.joaomoreira.pt) | [LinkedIn](https://www.linkedin.com/in/joaosmoreira/) | [Behance](https://www.behance.net/joaopmoreira) | [Instagram](https://www.instagram.com/joaoworeira/)
 
 <hr />
 
 ### Technologies and Languages
-Java | JavaScript | TypeScript | HTML | CSS | PHP
+Java | JavaScript | TypeScript | HTML | CSS | PHP | Flutter
 
 </div>
